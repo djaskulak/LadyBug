@@ -1,0 +1,9 @@
+FONTS: 
+  * Headers: Bebas Neue
+  * Regular text: Poppins Regular
+
+COLORS:
+  * For Lady Bug: Firebrick #AF1920
+  * Middle Green Yellow #ADC178
+  * Pale Spring Bud #DDE5B6
+  * Eggshell #F0EAD2
